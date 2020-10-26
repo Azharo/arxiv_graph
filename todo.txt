@@ -1,0 +1,4 @@
+TO DO:
+1. test out create_txt_dataset.py with "with pdfplumber.open(filepath) as pdf:" in line 108 with "pdfplumber.open(filepath, 'r')"
+
+2. Redo create_img_dataset.py
